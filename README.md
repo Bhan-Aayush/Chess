@@ -1,1 +1,1 @@
-# Connect 4 and Snake game
+Snake and Connect four games in python
